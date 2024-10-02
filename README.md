@@ -194,6 +194,6 @@ The references section includes key studies and resources used to develop this p
 - Yavaş, S., Baysan, C., & Önal, A. E. (2022). *Analysis of the natural disasters in the last century and the people who were consequently displaced*.  
 - Jia, H., Qiao, Y., & Xiao, R. (2017). *A Comprehensive Review of the Sponge City Construction in China: Policy and Regulation, Technologies, and Flood Control Management*.  
 - Zhang, J., Li, F., & Yu, G. (2021). *Integrated Urban Flood Management: From Concept to Implementation*.  
-- See the full list of references in the repository or the [booklet](./link-to-thesis-booklet.pdf).
+- See the full list of references in the repository or the [booklet](Thesis_Booklet_Aly_Christopher_Farida.pdf).
 
 ---
