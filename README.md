@@ -196,4 +196,11 @@ The references section includes key studies and resources used to develop this p
 - Zhang, J., Li, F., & Yu, G. (2021). *Integrated Urban Flood Management: From Concept to Implementation*.  
 - See the full list of references in the repository or the [booklet](Thesis_Booklet_Aly_Christopher_Farida.pdf).
 
+
+## Acknowledgment
+
+This thesis project was developed as part of the **Master in Advanced Computation for Architecture and Design (MACAD) 23/24** at the **Institute for Advanced Architecture of Catalonia (IAAC)**.
+
+Special thanks to our advisor, German Otto Bodenbender, and the entire faculty and staff at IAAC for their guidance and support throughout the project.
+
 ---
