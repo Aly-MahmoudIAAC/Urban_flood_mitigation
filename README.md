@@ -1,5 +1,7 @@
 # Mitigating Urban Floods: A Parametric Approach to Rainwater Management
 
+![Project Overview Image](How_to_use/Thesis_Booklet_Aly_Christopher_Farida (1)-57-77_page-0002.jpg)
+
 **Authors**:  
 Farida Fidvi, Aly Mahmoud, Christopher Mina  
 **Faculty Advisor**: German Otto Bodenbender  
@@ -95,11 +97,50 @@ These additions aim to further improve urban flood resilience in dense city cent
 
 ## How to Use
 
-1. **Download the Repository**: Clone or download the repository from GitHub.
-2. **Install Dependencies**: Ensure you have Rhino 8, Grasshopper, and all relevant plugins (e.g., Human UI, Ladybug).
-3. **Run the Grasshopper Script**: Open the script in Grasshopper to launch the UI.
-4. **Customize the Design**: Use the interface to select a region, define roof parameters, and visualize the impact of green roof installations.
-5. **Analyze Results**: Generate simulations for runoff reduction based on user-defined parameters.
+### 1. Download the Repository
+
+Clone or download the repository from GitHub.
+
+<p float="left">
+  <img src="./images/download-repository-1.png" width="400" />
+  <img src="./images/download-repository-2.png" width="400" />
+</p>
+
+### 2. Install Dependencies
+
+Ensure you have Rhino 8, Grasshopper, and all relevant plugins (e.g., Human UI, Ladybug).
+
+<p float="left">
+  <img src="./images/install-dependencies-1.png" width="400" />
+  <img src="./images/install-dependencies-2.png" width="400" />
+</p>
+
+### 3. Run the Grasshopper Script
+
+Open the script in Grasshopper to launch the UI.
+
+<p float="left">
+  <img src="./images/run-script-1.png" width="400" />
+  <img src="./images/run-script-2.png" width="400" />
+</p>
+
+### 4. Customize the Design
+
+Use the interface to select a region, define roof parameters, and visualize the impact of green roof installations.
+
+<p float="left">
+  <img src="./images/customize-design-1.png" width="400" />
+  <img src="./images/customize-design-2.png" width="400" />
+</p>
+
+### 5. Analyze Results
+
+Generate simulations for runoff reduction based on user-defined parameters.
+
+<p float="left">
+  <img src="./images/analyze-results-1.png" width="400" />
+  <img src="./images/analyze-results-2.png" width="400" />
+</p>
 
 ---
 
