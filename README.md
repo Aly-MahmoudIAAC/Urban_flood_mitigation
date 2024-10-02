@@ -103,47 +103,82 @@ These additions aim to further improve urban flood resilience in dense city cent
 
 Clone or download the repository from GitHub.
 
+### 2. Install Dependencies
+
+Ensure you have Rhino 8, Grasshopper, and all relevant plugins (e.g., Human UI, Ladybug).
+
+### 3. Run the Grasshopper Script
+
+Open the script in Grasshopper to launch the UI.
+
+### 4. Go Macro First
 <p float="left">
   <img src="Images/How_to_use/How_to_p01 (2).jpg" width="400" />
   <img src="Images/How_to_use/How_to_p01 (3).jpg" width="400" />
 </p>
 
-### 2. Install Dependencies
-
-Ensure you have Rhino 8, Grasshopper, and all relevant plugins (e.g., Human UI, Ladybug).
+### 5. Refine Your Context
 
 <p float="left">
   <img src="Images/How_to_use/How_to_p01 (4).jpg" width="400" />
   <img src="Images/How_to_use/How_to_p01 (5).jpg" width="400" />
 </p>
 
-### 3. Run the Grasshopper Script
-
-Open the script in Grasshopper to launch the UI.
+### 6. Zone Analysis
 
 <p float="left">
   <img src="Images/How_to_use/How_to_p01 (6).jpg" width="400" />
   <img src="Images/How_to_use/How_to_p01 (7).jpg" width="400" />
 </p>
-
-### 4. Customize the Design
-
-Use the interface to select a region, define roof parameters, and visualize the impact of green roof installations.
-
 <p float="left">
   <img src="Images/How_to_use/How_to_p01 (8).jpg" width="400" />
   <img src="Images/How_to_use/How_to_p01 (9).jpg" width="400" />
 </p>
 
-### 5. Analyze Results
+### 7. Preliminary predictions
 
-Generate simulations for runoff reduction based on user-defined parameters.
+Use the interface to select a region, define roof parameters, and visualize the impact of green roof installations.
 
 <p float="left">
   <img src="Images/How_to_use/How_to_p01 (10).jpg" width="400" />
   <img src="Images/How_to_use/How_to_p01 (11).jpg" width="400" />
 </p>
 
+### 7. Generic Green Roof
+
+Generate simulations for runoff reduction based on user-defined parameters.
+
+<p float="left">
+  <img src="Images/How_to_use/How_to_p01 (12).jpg" width="400" />
+  <img src="Images/How_to_use/How_to_p01 (13).jpg" width="400" />
+</p>
+
+### 8. Design Your Own Roof
+
+Generate simulations for runoff reduction based on user-defined parameters.
+
+<p float="left">
+  <img src="Images/How_to_use/How_to_p01 (14).jpg" width="400" />
+  <img src="Images/How_to_use/How_to_p01 (15).jpg" width="400" />
+</p>
+
+### 9. Analyse Results
+
+Generate simulations for runoff reduction based on user-defined parameters.
+
+<p float="left">
+  <img src="Images/How_to_use/How_to_p01 (16).jpg" width="400" />
+  <img src="Images/How_to_use/How_to_p01 (17).jpg" width="400" />
+</p>
+
+### 10. Visualize 
+
+Generate simulations for runoff reduction based on user-defined parameters.
+
+<p float="left">
+  <img src="Images/How_to_use/How_to_p01 (18).jpg" width="400" />
+  <img src="Images/How_to_use/How_to_p01 (19).jpg" width="400" />
+</p>
 ---
 
 ## References
