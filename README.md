@@ -68,6 +68,7 @@ Our approach combines **parametric design tools**, **machine learning**, and **u
 - **XGBoost Model**: Predicts surface runoff reduction based on urban density, rainfall data, and green roof area.
 - **Linear Regression**: Provides a baseline model for comparison with XGBoost.
 
+[Machine learning colab link](https://colab.research.google.com/drive/1zIrEJm34ajxBBQKzXi5fq405CAjR7uCS?usp=drive_link)
 ---
 
 ## User Interface
@@ -75,9 +76,10 @@ Our approach combines **parametric design tools**, **machine learning**, and **u
 We developed a **Human UI** interface within Grasshopper, allowing users to:
 - Define focus regions for analysis.
 - Adjust green roof parameters.
-- Simulate the effects of rainfall and green roof absorption in real-time.
+- Calculate the Run off reduction.
+- Visualize the Green Roof design
   
-The UI also supports customization for different building types, allowing the selection of flat and sloped roofs. This enables designers to integrate the solution into various architectural contexts.
+The UI also supports customization for different building types, allowing the selection of flat and sloped roofs. This enables designers to integrate the solution into various architectural contexts. (yet it still not made to solve for pitched roofs in the current update)
 
 ---
 
@@ -112,6 +114,9 @@ Ensure you have Rhino 8, Grasshopper, and all relevant plugins (e.g., Human UI, 
 Open the script in Grasshopper to launch the UI.
 
 ### 4. Go Macro First
+
+[Macro scale Notebook](https://colab.research.google.com/drive/1L0AFO0ew2kDGoL1DWifYGX11eO9e9vLP?usp=drive_link).
+
 <p float="left">
   <img src="Images/How_to_use/How_to_p01 (2).jpg" width="400" />
   <img src="Images/How_to_use/How_to_p01 (3).jpg" width="400" />
