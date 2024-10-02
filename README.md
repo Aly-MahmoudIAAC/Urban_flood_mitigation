@@ -10,6 +10,7 @@ Farida Fidvi, Aly Mahmoud, Christopher Mina
 **Program**: Master in Advanced Computation for Architecture and Design  
 **Thesis Year**: 2024
 
+
 ---
 
 ## Project Overview
