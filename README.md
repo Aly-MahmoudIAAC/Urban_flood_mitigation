@@ -1,6 +1,8 @@
 # Mitigating Urban Floods: A Parametric Approach to Rainwater Management
 
-![Project Overview Image](How_to_use/Thesis_Booklet_Aly_Christopher_Farida (1)-57-77_page-0002.jpg)
+<div align="center">
+<img src=Images/cover04.png alt="Project Overview Image" width="1000"/>
+</div>
 
 **Authors**:  
 Farida Fidvi, Aly Mahmoud, Christopher Mina  
@@ -102,8 +104,8 @@ These additions aim to further improve urban flood resilience in dense city cent
 Clone or download the repository from GitHub.
 
 <p float="left">
-  <img src="./images/download-repository-1.png" width="400" />
-  <img src="./images/download-repository-2.png" width="400" />
+  <img src="Images/How_to_use/How_to_p01 (2).jpg" width="400" />
+  <img src="Images/How_to_use/How_to_p01 (3).jpg" width="400" />
 </p>
 
 ### 2. Install Dependencies
@@ -111,8 +113,8 @@ Clone or download the repository from GitHub.
 Ensure you have Rhino 8, Grasshopper, and all relevant plugins (e.g., Human UI, Ladybug).
 
 <p float="left">
-  <img src="./images/install-dependencies-1.png" width="400" />
-  <img src="./images/install-dependencies-2.png" width="400" />
+  <img src="Images/How_to_use/How_to_p01 (4).jpg" width="400" />
+  <img src="Images/How_to_use/How_to_p01 (5).jpg" width="400" />
 </p>
 
 ### 3. Run the Grasshopper Script
@@ -120,8 +122,8 @@ Ensure you have Rhino 8, Grasshopper, and all relevant plugins (e.g., Human UI, 
 Open the script in Grasshopper to launch the UI.
 
 <p float="left">
-  <img src="./images/run-script-1.png" width="400" />
-  <img src="./images/run-script-2.png" width="400" />
+  <img src="Images/How_to_use/How_to_p01 (6).jpg" width="400" />
+  <img src="Images/How_to_use/How_to_p01 (7).jpg" width="400" />
 </p>
 
 ### 4. Customize the Design
@@ -129,8 +131,8 @@ Open the script in Grasshopper to launch the UI.
 Use the interface to select a region, define roof parameters, and visualize the impact of green roof installations.
 
 <p float="left">
-  <img src="./images/customize-design-1.png" width="400" />
-  <img src="./images/customize-design-2.png" width="400" />
+  <img src="Images/How_to_use/How_to_p01 (8).jpg" width="400" />
+  <img src="Images/How_to_use/How_to_p01 (9).jpg" width="400" />
 </p>
 
 ### 5. Analyze Results
@@ -138,8 +140,8 @@ Use the interface to select a region, define roof parameters, and visualize the 
 Generate simulations for runoff reduction based on user-defined parameters.
 
 <p float="left">
-  <img src="./images/analyze-results-1.png" width="400" />
-  <img src="./images/analyze-results-2.png" width="400" />
+  <img src="Images/How_to_use/How_to_p01 (10).jpg" width="400" />
+  <img src="Images/How_to_use/How_to_p01 (11).jpg" width="400" />
 </p>
 
 ---
